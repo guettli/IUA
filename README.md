@@ -9,24 +9,27 @@ In the past I asked: Bob, are you okay with me writing in the wiki page that you
 
 Bob: hmmm, I don't know. 
 
-With other words: I is not realy comfortable with it.
+With other words, he is not realy comfortable with it.
 
 Background: I am not the manager of Bob. We work on eye-level (peer-to-peer).
 
 Inspired by the book [Brave New Work](https://www.bravenewwork.com/) by Aaron Dignan I realized: Org-Charts and "Responsibilties"
 are less important today. 
 
-"You are responsible for xyz" this roughly the same as "You are to blame, if xyz goes wrong."
+"You are responsible for xyz" this roughly is the same as "You are to blame, if xyz goes wrong."
 
-There are different kind of people. Some are brave super-heros. And most are not. That's ok. I am not a brave super-hero, too.
-And I don't want to be one.
+There are different kind of people. Some are brave super-heros. And most are not. That's ok. I am not a brave super-hero, too. And I don't want to be the one to blame
 
-Bob created something new because it was useful. He wanted to solve something which helps now and today. I does not want to be
+Bob created something new because it was useful. He wanted to solve something which helps now and today. He does not want to be
 the one to blame if this does not work two years later. That's obvious.
 
-Nevertheless I have the new wiki page before me and documented the basics of the new tool.
+Nevertheless I have the new wiki page before me which explains the basics of the new tool.
 
 How to proceed?
+
+What is my goal? My goal: If a new team member heard about this tool, I want to help him to learn the basics fast. I
+don't want to explain every detail of this new tool. Just an overview. And if this new team member has a question, he
+should know where to ask.
 
 If "resonsible" does not fit. Which alternatives exist?
 
@@ -51,19 +54,24 @@ I am very thankful for the kernel hacker who had the idea to put a "if unsure ch
 Since I had no clue, this hint helped me do manage this process.
 
 Some days ago I read about [Direct Responsible Individual (Apple)](https://fortune.com/2011/08/25/how-apple-works-inside-the-worlds-biggest-startup/).
-I think this is a good solution for temporary projects. For a time-frame of two weeks to three months it is easy to say "Yes, I
-I want to be the direct responsible individual.
+I think this is a good solution for temporary projects. For a time-frame of two weeks to three months it is easy to say "Yes, 
+I want to be the direct responsible individual."
 
 But back to me sitting in front of the screen creating a new wiki page. This is not a temporary project.
-This is something which tool/service/process which lasts longer. No end in sight so far.
+This is a tool/service/process which lasts longer. No end in sight so far. Going to our manager to solve this would make
+it too complicated. This should be doable on peer-to-peer level.
 
-Thank your for your patience.
+Thank your for your patience reading my story.
 
-The solution I prefer at the moment is called: **IUA: If unsure ask ...**
+... short dramatic pause ... 
+
+The solution: **IUA: If unsure ask ...**
+
+More is not needed. A new comers should know where to ask questions which are not solved on the wiki-page.
 
 This `...` can be a person, a role, a chat-channel or a mail-adress.
 
 Obvious? Yes, now it is obvious and simple.
 
-
+What do you think about this? Please write me a mail guettli.iua@thomas-guettler.de or create an issue at github.
 
