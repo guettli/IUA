@@ -67,7 +67,7 @@ Thank your for your patience reading my story.
 
 The solution: **IUA: If unsure ask ...**
 
-More is not needed. A new comers should know where to ask questions which are not solved on the wiki-page.
+More is not needed. A new comers should know whom to talk to.
 
 This `...` can be a person, a role, a chat-channel or a mail-adress.
 
