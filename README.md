@@ -67,11 +67,11 @@ Thank you for your patience in reading my story.
 
 ... short dramaturgical pause ... 
 
-The solution: **IUA: If unsure ask ...**
+The solution: **IUA-Channel: If unsure ask ...**
 
 More is not needed. Newcomers should know whom to talk to.
 
-The IUA can be a person, a role, a chat-channel or a mail-address.
+The IUA-Channel can be a person, a role, a chat-channel or a mail-address.
 
 Obvious? Yes, now it is obvious and simple.
 
