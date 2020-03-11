@@ -1,4 +1,4 @@
-# IUA: If unsure ask ... An alternative to explicit Responsiblities.
+# IUA-Channel: "If unsure ask ..." An alternative to explicit Responsiblities.
 
 I like central corporate [Wikis](https://en.wikipedia.org/wiki/Wiki). It helps to find a common terminology.
 
