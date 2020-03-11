@@ -1,4 +1,4 @@
-# IUA-Channel: "If unsure ask ..." An alternative to explicit Responsiblities.
+# IUA-Channel: "If unsure ask ..." An alternative to explicit Responsibilities.
 
 I like central corporate [Wikis](https://en.wikipedia.org/wiki/Wiki). It helps to find a common terminology.
 
@@ -9,7 +9,7 @@ I asked: Bob, are you okay with me writing on the wiki page that you are respons
 
 Bob: hmmm, I don't know. 
 
-In other words, he is not really comfortable with it.
+In other words, he is not comfortable with it.
 
 Background: I am not the manager of Bob. We work on eye-level (peer-to-peer). Nobody told me to care for the wiki. It's my hobby. I hope it helps beginners. That's why I like to do it.
 
@@ -18,7 +18,7 @@ My first step was okay for Bob: Create a page where every employee can read abou
 Inspired by the book [Brave New Work](https://www.bravenewwork.com/) by Aaron Dignan I realized: Org-Charts and "Responsibilities"
 are less important today. 
 
-"You are responsible for xyz" this roughly is the same as "You are to blame, if xyz goes wrong."
+"You are responsible for xyz" this roughly is the same as "You are to blame if xyz goes wrong."
 
 There are different kinds of people. Some are brave super-heroes. And most are not. That's ok. I am not a brave super-hero, too. And I don't want to be the one to blame. 
 
@@ -60,7 +60,7 @@ Some days ago I read about [Direct Responsible Individual (Apple)](https://fortu
 I think this is a good solution for temporary projects. For a time-frame of two weeks to maybe eight months, it is easy to say "Yes, I want to be a directly responsible individual."
 
 But back to me sitting in front of the screen creating a new wiki page. This is not a temporary project.
-This is a tool/service/process will last longer. No end in sight so far. Going to our manager to solve this would make
+This is a tool/service/process that will last longer. No end in sight so far. Going to our manager to solve this would make
 it too complicated. This should be doable on the peer-to-peer level.
 
 Thank you for your patience in reading my story.
