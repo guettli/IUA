@@ -91,6 +91,11 @@ Responsible, Accountable, Consulted, and Informed.
 
 IUA is about "consulted". Who can I consult, if I need advice. This can get solved at peer-to-peer level and is very helpful.
 
+## Conclusion
 
+I think there are three levels of "Responsibility":
 
+* Org Chart: This is the official Responsibility. You can't take ownership here on your own.
+* DRI (Direct responsible individual): For temporary project. An individual who has the final word fits well.
+* Support-Channel: Long-lasting support for a process or tool. You can take ownership on your own. A group of people fits well. It is more about being available if there is a question.
 
