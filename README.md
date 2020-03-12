@@ -33,6 +33,8 @@ What is my goal? I have this scene on my mind: A new team member heard about thi
 
 I want to help the new team member to learn the basics fast. There is no need to explain every detail on the wiki page. Just an overview. And if this new team member has a question, he should know where to ask.
 
+Bob, the creator of the tool, is in the "getting things done" mode. He does not see that it makes sense to document and advertise his tool. And that's all right.
+
 If "responsible" does not fit. Which alternatives exist?
 
 In an Org-Chart there is a line between two boxes. Imagine there are two boxes A and B. How to call the line between A and B?
