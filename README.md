@@ -75,7 +75,7 @@ The IUA-Channel can be a person, a role, a chat-channel or a mail-address.
 
 Obvious? Yes, now it is obvious and simple.
 
-You could call it "Contact-Channel". But this wouldn't be new, cool, agile, lean or innovative.
+You could call it "Contact-Channel" or "Support-Channel". But this wouldn't be new, cool, agile, lean or innovative :-)
 
 What do you think about this? Please write me a mail guettli.iua@thomas-guettler.de or create an issue at GitHub.
 
