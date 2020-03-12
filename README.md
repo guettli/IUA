@@ -83,4 +83,14 @@ Please tell me typos or strange wordings, I am not a native speaker.
 
 ## Alternatives
 
-* [Responsibility assignment matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
+### RACI Matrix
+
+[Responsibility assignment matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
+
+Responsible, Accountable, Consulted, and Informed.
+
+IUA is about "consulted". Who can I consult, if I need advice. This can get solved at peer-to-peer level and is very helpful.
+
+
+
+
