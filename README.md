@@ -80,3 +80,7 @@ You could call it "Contact-Channel". But this wouldn't be new, cool, agile, lean
 What do you think about this? Please write me a mail guettli.iua@thomas-guettler.de or create an issue at GitHub.
 
 Please tell me typos or strange wordings, I am not a native speaker.
+
+## Alternatives
+
+* [Responsibility assignment matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
