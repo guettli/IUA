@@ -108,6 +108,16 @@ IUA is about "consulted". Who can I consult, if I need advice. This can get solv
 > operating, maintaining, upgrading, and disposing of assets in the most cost-effective manner (including 
 > all costs, risks and performance attributes).
 
+## Ownership.
+
+This term gets used often. But does this really fit here?
+
+Just have a look at the wikpedia page: [Ownership](https://en.wikipedia.org/wiki/Ownership).
+
+You can own a car, a house, land or real estate ...
+
+The C-level wants that employees take ownership. Sounds good.
+But what do they really want? How does "take ownership" work in detail?
 
 ## Conclusion
 
