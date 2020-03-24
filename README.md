@@ -2,6 +2,8 @@
 
 I like central corporate [Wikis](https://en.wikipedia.org/wiki/Wiki). It helps to find a common terminology.
 
+Here comes a story. 
+
 I have seen this several times: A co-worker (Bob) created a cool thing. Then I would like to create a new wiki page explaining this
 cool thing. The co-worker likes this idea.
 
