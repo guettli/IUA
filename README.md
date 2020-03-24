@@ -4,10 +4,14 @@ I like central corporate [Wikis](https://en.wikipedia.org/wiki/Wiki). It helps t
 
 Here comes a story. 
 
-I have seen this several times: A co-worker (Bob) created a cool thing. Then I would like to create a new wiki page explaining this
-cool thing. The co-worker likes this idea.
+I have seen this several times: A co-worker (Bob) created a cool tool. Then I would like to create a new wiki page explaining this
+cool thing. The Bob likes this idea. He is busy doing things, so he is happy that I want to document it. And I am happy since I like to improve our knowledge base.
 
-I asked: Bob, are you okay with me writing on the wiki page that you are responsible for this?
+Me: Hi Bob, I would like to create a little wiki page about your cool tool. 
+
+Bob: Yes, great. Thank you.
+
+Me: Bob, are you okay with me writing on the wiki page that you are responsible for this?
 
 Bob: hmmm, I don't know. 
 
@@ -17,15 +21,13 @@ Background: I am not the manager of Bob. We work on eye-level (peer-to-peer). No
 
 My first step was okay for Bob: Create a page where every employee can read about the cool new tool. But he does not like the second step. Why?
 
-Inspired by the book [Brave New Work](https://www.bravenewwork.com/) by Aaron Dignan I realized: Org-Charts and "Responsibilities"
-are less important today. 
+Inspired by the book [Brave New Work](https://www.bravenewwork.com/) by Aaron Dignan I realized: Org-Charts and "Responsibilities" are less important today. 
 
 "You are responsible for xyz" this roughly is the same as "You are to blame if xyz goes wrong."
 
 There are different kinds of people. Some are brave super-heroes. And most are not. That's ok. I am not a brave super-hero, too. And I don't want to be the one to blame. 
 
-Bob created something new because it was useful. He wanted to solve something which helps now and today. He does not want to be
-the one to blame if this does not work two years later. That's understandable.
+Bob created something new because it was useful. He wanted to solve something which helps now and today. He does not want to be the one to blame if this does not work two years later. That's understandable.
 
 Nevertheless, I still have the new wiki page before me which explains the basics of the new tool.
 
@@ -94,6 +96,18 @@ Please tell me typos or strange wordings, I am not a native speaker.
 Responsible, Accountable, Consulted, and Informed.
 
 IUA is about "consulted". Who can I consult, if I need advice. This can get solved at peer-to-peer level and is very helpful.
+
+### Asset Management / iso9001
+
+[Asset Management](https://en.wikipedia.org/wiki/Asset_management): 
+
+> Asset management refers to systematic approach to the governance and realization of value from the things that a 
+> group or entity is responsible for, over their whole life cycles. It may apply both to tangible assets 
+> (physical objects such as buildings or equipment) and to intangible assets (such as human capital, 
+> intellectual property, goodwill or financial assets). Asset management is a systematic process of developing, 
+> operating, maintaining, upgrading, and disposing of assets in the most cost-effective manner (including 
+> all costs, risks and performance attributes).
+
 
 ## Conclusion
 
