@@ -87,7 +87,26 @@ What do you think about this? Please write me a mail guettli.iua@thomas-guettler
 
 Please tell me typos or strange wordings, I am not a native speaker.
 
-## Alternatives
+## Different perspectives
+
+### No template/guideline
+
+The real issue is that there is no template or guideline for the Wiki. If there is a clear description of
+what is neede per page, then this issue would be simpler
+
+### Don't create wiki pages, if you are not told to do so.
+
+You might think it is useful, Bob thinks that it is useful. Don't to what you think, do what you are told to do.
+
+You can ask your manager if there should be a particular person or a contact channel on this page.
+
+### Let it flow - there is no issue
+
+Relax, if Bob does not want his name to be on the wiki page, then don't write his name there. End of story.
+
+If the reader of the page has an issue, since he does not know whom to contact, then it is the issue of the reader. Not mine. Maybe there will never be a reader with the question "Who can I ask about this tool?".
+
+## Alternatives to IUA-Channels
 
 ### RACI Matrix
 
