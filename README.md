@@ -137,13 +137,11 @@ Just have a look at the wikpedia page: [Ownership](https://en.wikipedia.org/wiki
 
 You can own a car, a house, land or real estate ...
 
-The C-level wants that employees take ownership. Sounds good.
+You can take ownership of things you created, hen "take ownership" means "build new things". This fits
+to a fast growint startup.
 
-But what happens after ownership was taken? Like in above story. Bob created a new tool. But what is the next step?
+But in an established company "take ownership" would mean to take it away from somebody. This is like stealing.
 
-It is in our genes that creating children is (if you are in the mood) fun.
-
-But who cares for the kids?
 
 ## Conclusion
 
