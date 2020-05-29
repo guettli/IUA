@@ -133,7 +133,7 @@ This term gets used often. For example: [10 Ways to Encourage Employees to Take 
 
 Companies want it, but does the term "Ownership" really fit here?
 
-Just have a look at the wikpedia page: [Ownership](https://en.wikipedia.org/wiki/Ownership).
+Just have a look at the Wikpedia page: [Ownership](https://en.wikipedia.org/wiki/Ownership).
 
 You can own a car, a house, land or real estate ...
 
@@ -142,6 +142,16 @@ to a fast growint startup.
 
 But in an established company "take ownership" would mean to take it away from somebody. This is like stealing.
 
+## What is better than having two contact channels?
+
+> What is better than having two contact channels?
+
+Answer: To have **one** contact channel.
+
+Why: Because "don't make me think". If you have two contact channels, then you need to think. You need
+to decide which contact channel to choose.
+
+Keep it simple.
 
 ## Conclusion
 
