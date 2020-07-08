@@ -21,11 +21,11 @@ Background: I am not the manager of Bob. We work on eye-level (peer-to-peer). No
 
 My first step was okay for Bob: Create a page where every employee can read about the cool new tool. But he does not like the second step. Why?
 
-Inspired by the book [Brave New Work](https://www.bravenewwork.com/) by Aaron Dignan I realized: Org-Charts and "Responsibilities" are less important today. 
+Inspired by the book [Brave New Work](https://www.bravenewwork.com/) by Aaron Dignan I realized: Org-Charts and official "Responsibilities" are less important today. 
 
 "You are responsible for xyz" is roughly the same as "You are to blame if something goes wrong."
 
-There are different kinds of people. Some are brave super-heroes. And most are not. That's ok. I am not a brave super-hero, too. I don't want to be the one to blame. 
+There are different kinds of people. Some are brave super-heroes. And most are not. That's ok. I am not a brave super-hero, too. I don't want to be the one to blame, although I like to build stuff which makes customers or colleagues happy.
 
 Bob created something new because it was useful. He wanted to solve something which helps now and today. He does not want to be the one to blame if this does not work two years later. That's understandable.
 
@@ -89,16 +89,24 @@ Please tell me typos or strange wordings, I am not a native speaker.
 
 ## Different perspectives
 
+### I don't get the problem you want to solve with IUA
+
+I want to raise obviousness to make the work environment more efficient. This is hard to grasp. Raising
+obviousness means to change thousand small things, and at the end nobody will notice a difference. It will
+just work.
+
+A comparison: At the watercooler a common topic are the traffic jams created by road construction works. People need to wait,
+and this annoys them. Since they are annoyed they start to speak. That's a common pattern for the species homo sapiens.
+If the road is fine, then they complain about the weather. They don't even realize that the roads are in a very good
+state.
+
+If you look at this comparison, then you realize: You can raise obviousness and make work easier, and finally nobody 
+will say "thank you". That's live. Don't expect a "thank you". Do it since you see that it makes sense.
+
 ### No template/guideline
 
 The real issue is that there is no template or guideline for the Wiki. If there is a clear description of
-what is neede per page, then this issue would be simpler
-
-### Don't create wiki pages, if you are not told to do so.
-
-You might think it is useful, Bob thinks that it is useful. Don't to what you think, do what you are told to do.
-
-You can ask your manager if there should be a particular person or a contact channel on this page.
+what is neede per page, then this issue would be simpler.
 
 ### Let it flow - there is no issue
 
@@ -158,6 +166,6 @@ Keep it simple.
 I think there are three levels of "Responsibility":
 
 * Org Chart: This is the official Responsibility. You can't take ownership here on your own.
-* DRI (Direct responsible individual): For temporary project. An individual who has the final word fits well. After talking to your peers you can take ownership on your own.
+* DRI (Direct responsible individual): For temporary project, an individual who has the final word fits well. This way decisions get done fast and without long discussions.
 * Support-Channel: Long-lasting support for a process or tool.  A group of people fits well. It is more about being available if there is a question. After talking to your peers you can take ownership on your own.
 
