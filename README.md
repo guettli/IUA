@@ -167,5 +167,5 @@ I think there are three levels of "Responsibility":
 
 * Org Chart: This is the official Responsibility. You can't take ownership here on your own.
 * DRI (Direct responsible individual): For temporary project, an individual who has the final word fits well. This way decisions get done fast and without long discussions.
-* Support-Channel: Long-lasting support for a process or tool.  A group of people fits well. It is more about being available if there is a question. After talking to your peers you can take ownership on your own.
+* [IAU-Channel](https://github.com/guettli/IUA-Channel): "If unsure ask ...": A long-lasting support channel for internal processes or tools.
 
