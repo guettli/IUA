@@ -124,6 +124,18 @@ Responsible, Accountable, Consulted, and Informed.
 
 IUA is about "consulted". Who can I consult, if I need advice. This can get solved at peer-to-peer level and is very helpful.
 
+### ARPA
+
+[ARPA: A Framework Alternative to the RACI Model](https://www.helpscout.com/blog/arpa-raci-model/)
+
+* Accountable: 
+The person who is accountable to the business (in some cases the board) for success. Strategic decisions related to the project or initiative are made by this person.
+* Responsible: One or two people who are responsible for day-to-day execution, making sure the work gets done within project constraints and meets our standards of excellence. Tactical decisions related to the project or initiative are made by these folks.
+* Participant: People who allocate time and resources to support the project’s delivery, but for whom the project is not a primary role or responsibility. They make decisions related to the quality of the work, but they otherwise look to the Responsible or Accountable party for direction.
+* Advisor: People who are consulted on one or more aspects, but they have no decision-making authority.
+
+... but does not answer the support-channel question.
+
 ### Asset Management / iso9001
 
 [Asset Management](https://en.wikipedia.org/wiki/Asset_management): 
