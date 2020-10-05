@@ -105,8 +105,12 @@ will say "thank you". That's live. Don't expect a "thank you". Do it since you s
 
 ### No template/guideline
 
-The real issue is that there is no template or guideline for the Wiki. If there is a clear description of
+The real issue in above example is, that there is no template or guideline for the Wiki. If there is a clear description of
 what is neede per page, then this issue would be simpler.
+
+But what is needed per page? 
+
+I think an IUA-Channel.
 
 ### Let it flow - there is no issue
 
