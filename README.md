@@ -138,7 +138,7 @@ The person who is accountable to the business (in some cases the board) for succ
 * Participant: People who allocate time and resources to support the project’s delivery, but for whom the project is not a primary role or responsibility. They make decisions related to the quality of the work, but they otherwise look to the Responsible or Accountable party for direction.
 * Advisor: People who are consulted on one or more aspects, but they have no decision-making authority.
 
-... but does not answer the support-channel question.
+... but does not answer the IAU-Channel question.
 
 ### Asset Management / iso9001
 
