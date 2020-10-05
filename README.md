@@ -1,6 +1,6 @@
 # IUA-Channel: "If unsure ask ..." An alternative to explicit Responsibilities.
 
-I like central corporate [Wikis](https://en.wikipedia.org/wiki/Wiki). It helps to find a common terminology.
+I like [Intranet Wikis](https://github.com/guettli/intranets). It helps to find a common terminology.
 
 Here comes a story. 
 
