@@ -41,7 +41,7 @@ Bob, the creator of the tool, is in the "getting things done" mode. He does not 
 
 If "responsible" does not fit. Which alternatives exist?
 
-In an Org-Chart there is a line between two boxes. Imagine there are two boxes A and B. How to call the line between A and B?
+In an Org-Chart there is a line between two boxes. Imagine there are two employees: A and B. How to call the line between A and B?
 
 * A is responsible for B
 * A is accountable for B
@@ -49,8 +49,6 @@ In an Org-Chart there is a line between two boxes. Imagine there are two boxes A
 * A owns B
 * B reports to A
 
-The attentive reader might notice that I don't make a distinction between what A or B is. It could be a person, a role,
-a department, a team, a tool, a service ...
 
 There was a time when I was new and completely clueless. I remember this very well.
 
@@ -76,19 +74,19 @@ Thank you for your patience in reading my story.
 The solution: **IUA-Channel: If unsure ask ...**
 
 It does not matter how big your Wiki or knowledge-base is. Not everything will
-be covered. You should always provide a channel so that people can ask questions.
+be covered, it is perfectly fine that some things are not documented. You should always provide a channel so that people can ask questions.
 
-More is not needed. Newcomers should know whom to talk to.
+More is not needed. Newcomers should know how to find someone to talk to.
 
 The IUA-Channel can be a person, a role, a chat-channel or a mail-address.
 
-In above example the IUA-Channel take the pressure of Bob. Imagine he created an internal tool in the context of Kubernetes (Cloud
+In above example the IUA-Channel takes the pressure of Bob. Imagine he created an internal tool in the context of Kubernetes (Cloud
 orchestration software). And there is already a general chat channel called #kuberentes, then you could add
-to the page of the new tool: "If unsure ask in #kubernetes". This way the responsibility is was handed over from
+to the page of the new tool: "If you want to know more about this tool, then ask in #kubernetes". This way the responsibility is was handed over from
 one individual to a group. Bob feels better and if Bob is on vacation it is likely that someone else can answer
 the question of the new team member.
 
-You could call it "Contact-Channel" or "Support-Channel". But this wouldn't be new, cool, agile, lean or innovative :-)
+You could call "IUA-Channel" differently. Maybe "Contact-Channel" or "Support-Channel". But this wouldn't be new, cool, agile, lean or innovative :-)
 
 
 ## Different perspectives
@@ -168,7 +166,7 @@ But in an established company "take ownership" would mean to take it away from s
 
 Answer: To have **one** contact channel.
 
-Why: Because "don't make me think". If you have two contact channels, then the user/customer needs to think. he needs
+Why: Because "don't make me think". If you have two contact channels, then the user/customer needs to think. He needs
 to decide which contact channel to choose. Thinking hurts. Don't let you users/customers feel pain.
 
 Keep it simple.
