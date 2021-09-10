@@ -1,6 +1,6 @@
 # IUA-Channel: "If unsure ask ..." An alternative to explicit Responsibilities.
 
-I like [Intranet Wikis](https://github.com/guettli/intranets). It helps to find a common terminology.
+This article is about internal documentation, like a [Intranet Wiki](https://github.com/guettli/intranets) or a knowledge-base. I like them very much, since the help to find a common terminology.
 
 Here comes a story. 
 
